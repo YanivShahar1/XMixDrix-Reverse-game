@@ -1,8 +1,6 @@
 # XMixDrix-Reverse-game
 ## XMixDrix Reverse Game
 
-![XMixDrix Reverse Game](images/xmixdrix_reverse.png)
-
 ## Introduction
 
 Welcome to XMixDrix Reverse, a fun and challenging twist on the classic Tic-Tac-Toe game! In this unique version, the objective is reversed: the player who successfully creates a winning sequence is declared the loser. Test your strategic skills against an AI opponent or play with a friend in this console-based board game.
